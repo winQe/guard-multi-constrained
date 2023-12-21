@@ -161,5 +161,7 @@ cython_debug/
 
 **/.DS_Store
 
-**/logs/**
+**/logs/
 .vscode/
+**/archive_logs/
+safe_rl_lib/scpo_paper_exp/
